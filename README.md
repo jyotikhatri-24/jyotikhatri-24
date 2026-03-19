@@ -1,6 +1,9 @@
-## Hi there 👋
+
 # 💫 About Me:
-I’m a full-stack developer with a strong interest in building scalable and efficient systems using JavaScript technologies. I primarily work with the MERN stack, using Node.js and Express to design backend services and APIs, and React to build clean, responsive user interfaces. I’m comfortable working with databases like MongoDB and Redis, and have a good understanding of system design, authentication (JWT/OAuth), and API integration.<br><br>I’m also interested in working with modern AI technologies and integrating AI APIs into applications. I enjoy writing clean, maintainable code and thinking about performance, reliability, and overall user experience. I’m someone who likes to learn continuously, adapt quickly to new tools, and build practical solutions that work well in real-world scenarios.<br><br>💬 Ask me about: Backend systems, APIs, system design, MERN stack, or anything around AI integrations<br>⚡ Fun fact: I enjoy optimizing systems for performance — even small improvements feel like a win to me<br>
+I’m a student and aspiring full-stack developer currently seeking internship opportunities where I can apply and grow my skills in real-world environments. I have a strong interest in building scalable and efficient systems using JavaScript technologies, primarily working with the MERN stack. I use Node.js and Express to design backend services and APIs, and React to build clean, responsive user interfaces. I’m comfortable working with databases like MongoDB and Redis, and have a good understanding of system design, authentication (JWT/OAuth), and API integration.I’m also interested in working with modern AI technologies and integrating AI APIs into applications. I enjoy writing clean, maintainable code and thinking about performance, reliability, and overall user experience. I’m someone who likes to learn continuously, adapt quickly to new tools, and build practical solutions that work well in real-world scenarios.
+💬 Ask me about: Backend systems, APIs, system design, MERN stack, or AI integrations
+⚡ Fun fact: I enjoy optimizing systems for performance — even small improvements feel like a win to me
+<br>
 
 
 ## 🌐 Socials:
